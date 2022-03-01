@@ -1,7 +1,7 @@
 url: http://app.excelenciadigital.online:3002/ColmedFcia
-status: up
-code: 200
-responseTime: 1521
-lastUpdated: 2022-02-28T23:32:14.436Z
+status: down
+code: 500
+responseTime: 1090
+lastUpdated: 2022-03-01T18:42:30.957Z
 startTime: Tue Feb 01 2022 17:03:37 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
