@@ -4,36 +4,40 @@
     "url": "http://app.excelenciadigital.online:3002/ColmedFcia",
     "icon": "https://favicons.githubusercontent.com/app.excelenciadigital.online",
     "slug": "farmacia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1189,
-    "timeDay": 1470,
-    "timeWeek": 1191,
-    "timeMonth": 1189,
-    "timeYear": 1189,
-    "dailyMinutesDown": {}
+    "time": 1196,
+    "timeDay": 1306,
+    "timeWeek": 1242,
+    "timeMonth": 1211,
+    "timeYear": 1196,
+    "dailyMinutesDown": {
+      "2022-03-01": 0
+    }
   },
   {
     "name": "Practicas",
     "url": "http://app.excelenciadigital.online:3002/Colmedpracticas",
     "icon": "https://favicons.githubusercontent.com/app.excelenciadigital.online",
     "slug": "practicas",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 565,
-    "timeDay": 838,
-    "timeWeek": 573,
-    "timeMonth": 565,
-    "timeYear": 565,
-    "dailyMinutesDown": {}
+    "time": 572,
+    "timeDay": 686,
+    "timeWeek": 609,
+    "timeMonth": 578,
+    "timeYear": 572,
+    "dailyMinutesDown": {
+      "2022-03-01": 0
+    }
   },
   {
     "name": "Panel Excelencia",
@@ -46,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 552,
-    "timeDay": 496,
-    "timeWeek": 523,
-    "timeMonth": 552,
-    "timeYear": 552,
+    "time": 551,
+    "timeDay": 532,
+    "timeWeek": 526,
+    "timeMonth": 555,
+    "timeYear": 551,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1325,
-    "timeDay": 1475,
-    "timeWeek": 1311,
-    "timeMonth": 1325,
-    "timeYear": 1325,
+    "time": 1327,
+    "timeDay": 1375,
+    "timeWeek": 1289,
+    "timeMonth": 1338,
+    "timeYear": 1327,
     "dailyMinutesDown": {}
   }
 ]
