@@ -1,7 +1,7 @@
 url: http://app.excelenciadigital.online:3002/Colmedpracticas
-status: down
-code: 500
-responseTime: 511
-lastUpdated: 2022-03-02T04:45:45.901Z
+status: up
+code: 200
+responseTime: 1285
+lastUpdated: 2022-03-02T06:46:16.229Z
 startTime: Tue Feb 01 2022 17:03:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
