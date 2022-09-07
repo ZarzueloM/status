@@ -71,11 +71,11 @@
     "icon": "https://favicons.githubusercontent.com/app.excelenciadigital.online",
     "slug": "panel-excelencia",
     "status": "up",
-    "uptime": "99.66%",
+    "uptime": "99.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.54%",
-    "uptimeYear": "99.66%",
+    "uptimeYear": "99.67%",
     "time": 632,
     "timeDay": 491,
     "timeWeek": 552,
@@ -100,10 +100,10 @@
     "url": "https://www.colmedsanjuan.com.ar",
     "icon": "https://www.colmedsanjuan.com.ar/intranet/favicon.ico",
     "slug": "colmed-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.45%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.44%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.98%",
     "time": 1399,
@@ -112,6 +112,7 @@
     "timeMonth": 1366,
     "timeYear": 1399,
     "dailyMinutesDown": {
+      "2022-09-07": 0,
       "2022-09-01": 56
     }
   }
