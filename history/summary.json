@@ -165,19 +165,19 @@
     "url": "https://excelenciadigital.info:444/hcweb/Login.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/excelenciadigital.info.ico",
     "slug": "historia-clinica",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 829,
-    "timeDay": 829,
-    "timeWeek": 829,
-    "timeMonth": 829,
-    "timeYear": 829,
+    "status": "up",
+    "uptime": "80.99%",
+    "uptimeDay": "80.99%",
+    "uptimeWeek": "80.99%",
+    "uptimeMonth": "80.99%",
+    "uptimeYear": "80.99%",
+    "time": 810,
+    "timeDay": 810,
+    "timeWeek": 810,
+    "timeMonth": 810,
+    "timeYear": 810,
     "dailyMinutesDown": {
-      "2023-03-21": 0
+      "2023-03-21": 66
     }
   }
 ]
