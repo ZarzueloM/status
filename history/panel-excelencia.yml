@@ -1,7 +1,7 @@
 url: http://excelenciadigital.info:3002/PaneldeValidacion/Login.Aspx
-status: up
-code: 200
-responseTime: 184
-lastUpdated: 2023-07-12T23:11:38.836Z
+status: down
+code: 404
+responseTime: 1806
+lastUpdated: 2023-07-13T16:09:52.140Z
 startTime: Tue Feb 01 2022 17:03:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
