@@ -22,15 +22,15 @@ status-website:
   cname: status.colmedsanjuan.com.ar 
   #demo.upptime.js.org
   #baseUrl: /status
-  logoUrl: https://www.colmedsanjuan.com.ar/intranet/css/icons/icons.svg
+  logoUrl: https://colmedsanjuan.com.ar/assets/img/logo.png
   name: Status
-  introTitle: "Página de estado para monitoreo."
+  introTitle: "COLMED - Página de estados."
   #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+   # - title: GitHub
+   #   href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
