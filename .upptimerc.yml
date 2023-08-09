@@ -4,11 +4,11 @@ repo: status # The name of this repository
 
 sites:
   - name: Farmacia
-    url: http://excelenciadigital.info:3002/ColmedFcia/Login.Aspx
+    url: http://excelencia.myqnapcloud.com:3002/ColmedFcia/ValidarNew.aspx
   - name: Practicas
-    url: http://excelenciadigital.info:3002/ColmedPracticas/Login.aspx
+    url: http://excelencia.myqnapcloud.com:3002/Colmedpracticas/Login.aspx
   - name: Panel Excelencia
-    url: http://excelenciadigital.info:3002/PaneldeValidacion/Login.Aspx
+    url: http://excelencia.myqnapcloud.com:3002/PaneldeValidacion/Login.Aspx
   - name: Colmed Web
     url: https://www.colmedsanjuan.com.ar
     icon: https://www.colmedsanjuan.com.ar/intranet/favicon.ico
