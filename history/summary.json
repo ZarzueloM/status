@@ -11,10 +11,10 @@
     "uptimeMonth": "98.49%",
     "uptimeYear": "98.09%",
     "time": 949,
-    "timeDay": 1035,
-    "timeWeek": 1020,
-    "timeMonth": 907,
-    "timeYear": 836,
+    "timeDay": 763,
+    "timeWeek": 971,
+    "timeMonth": 909,
+    "timeYear": 835,
     "dailyMinutesDown": {
       "2023-08-25": 102,
       "2023-08-15": 80,
@@ -48,8 +48,7 @@
       "2022-10-25": 120,
       "2022-10-15": 30,
       "2022-10-14": 32,
-      "2022-10-04": 466,
-      "2022-08-30": 20
+      "2022-10-04": 466
     }
   },
   {
@@ -63,11 +62,11 @@
     "uptimeWeek": "98.99%",
     "uptimeMonth": "98.54%",
     "uptimeYear": "98.16%",
-    "time": 348,
-    "timeDay": 197,
-    "timeWeek": 200,
+    "time": 347,
+    "timeDay": 171,
+    "timeWeek": 195,
     "timeMonth": 194,
-    "timeYear": 251,
+    "timeYear": 250,
     "dailyMinutesDown": {
       "2023-08-25": 102,
       "2023-08-15": 80,
@@ -98,8 +97,7 @@
       "2022-11-22": 82,
       "2022-10-25": 120,
       "2022-10-14": 32,
-      "2022-10-04": 466,
-      "2022-08-30": 20
+      "2022-10-04": 466
     }
   },
   {
@@ -108,16 +106,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/excelencia.myqnapcloud.com.ico",
     "slug": "panel-excelencia",
     "status": "up",
-    "uptime": "98.56%",
+    "uptime": "98.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.00%",
     "uptimeMonth": "98.54%",
     "uptimeYear": "97.94%",
-    "time": 451,
-    "timeDay": 198,
-    "timeWeek": 543,
+    "time": 450,
+    "timeDay": 171,
+    "timeWeek": 537,
     "timeMonth": 350,
-    "timeYear": 394,
+    "timeYear": 393,
     "dailyMinutesDown": {
       "2023-08-25": 101,
       "2023-08-15": 79,
@@ -149,8 +147,7 @@
       "2022-11-30": 541,
       "2022-10-25": 119,
       "2022-10-14": 31,
-      "2022-10-04": 464,
-      "2022-08-30": 19
+      "2022-10-04": 464
     }
   },
   {
@@ -165,9 +162,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 1528,
-    "timeDay": 1882,
-    "timeWeek": 1649,
-    "timeMonth": 1655,
+    "timeDay": 1428,
+    "timeWeek": 1637,
+    "timeMonth": 1658,
     "timeYear": 1581,
     "dailyMinutesDown": {
       "2023-06-30": 258,
@@ -190,16 +187,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/excelenciadigital.online.ico",
     "slug": "historia-clinica",
     "status": "up",
-    "uptime": "98.82%",
+    "uptime": "98.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.80%",
-    "uptimeYear": "98.82%",
-    "time": 6812,
-    "timeDay": 1247,
-    "timeWeek": 1159,
-    "timeMonth": 2675,
-    "timeYear": 6812,
+    "uptimeYear": "98.83%",
+    "time": 6778,
+    "timeDay": 863,
+    "timeWeek": 1138,
+    "timeMonth": 2523,
+    "timeYear": 6778,
     "dailyMinutesDown": {
       "2023-08-10": 610,
       "2023-08-09": 793,
