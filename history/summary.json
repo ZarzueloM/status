@@ -8,13 +8,13 @@
     "uptime": "98.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.82%",
+    "uptimeMonth": "94.59%",
     "uptimeYear": "97.49%",
     "time": 964,
-    "timeDay": 931,
-    "timeWeek": 978,
-    "timeMonth": 1424,
-    "timeYear": 858,
+    "timeDay": 959,
+    "timeWeek": 975,
+    "timeMonth": 989,
+    "timeYear": 857,
     "dailyMinutesDown": {
       "2023-09-12": 109,
       "2023-09-11": 881,
@@ -51,8 +51,7 @@
       "2022-11-22": 83,
       "2022-10-25": 120,
       "2022-10-15": 30,
-      "2022-10-14": 32,
-      "2022-10-04": 466
+      "2022-10-14": 32
     }
   },
   {
@@ -61,16 +60,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/excelencia.myqnapcloud.com.ico",
     "slug": "practicas",
     "status": "up",
-    "uptime": "98.54%",
+    "uptime": "98.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.51%",
+    "uptimeMonth": "98.28%",
     "uptimeYear": "97.87%",
-    "time": 334,
-    "timeDay": 180,
+    "time": 333,
+    "timeDay": 185,
     "timeWeek": 186,
-    "timeMonth": 431,
-    "timeYear": 239,
+    "timeMonth": 309,
+    "timeYear": 238,
     "dailyMinutesDown": {
       "2023-09-10": 753,
       "2023-09-03": 775,
@@ -102,8 +101,7 @@
       "2022-11-30": 541,
       "2022-11-22": 82,
       "2022-10-25": 120,
-      "2022-10-14": 32,
-      "2022-10-04": 466
+      "2022-10-14": 32
     }
   },
   {
@@ -115,13 +113,13 @@
     "uptime": "98.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.51%",
+    "uptimeMonth": "98.28%",
     "uptimeYear": "97.65%",
-    "time": 448,
-    "timeDay": 181,
-    "timeWeek": 187,
-    "timeMonth": 598,
-    "timeYear": 370,
+    "time": 447,
+    "timeDay": 186,
+    "timeWeek": 186,
+    "timeMonth": 480,
+    "timeYear": 369,
     "dailyMinutesDown": {
       "2023-09-10": 753,
       "2023-09-03": 774,
@@ -154,8 +152,7 @@
       "2022-12-14": 103,
       "2022-11-30": 541,
       "2022-10-25": 119,
-      "2022-10-14": 31,
-      "2022-10-04": 464
+      "2022-10-14": 31
     }
   },
   {
@@ -169,11 +166,11 @@
     "uptimeWeek": "99.59%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.85%",
-    "time": 1547,
-    "timeDay": 1364,
-    "timeWeek": 1577,
-    "timeMonth": 1695,
-    "timeYear": 1608,
+    "time": 1549,
+    "timeDay": 1844,
+    "timeWeek": 1607,
+    "timeMonth": 1706,
+    "timeYear": 1609,
     "dailyMinutesDown": {
       "2023-09-30": 18,
       "2023-09-29": 24,
@@ -201,11 +198,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1158,
-    "timeDay": 938,
-    "timeWeek": 1111,
-    "timeMonth": 1158,
-    "timeYear": 1158,
+    "time": 1157,
+    "timeDay": 1143,
+    "timeWeek": 1149,
+    "timeMonth": 1157,
+    "timeYear": 1157,
     "dailyMinutesDown": {}
   },
   {
@@ -219,11 +216,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.03%",
-    "time": 5792,
-    "timeDay": 928,
-    "timeWeek": 1131,
-    "timeMonth": 1087,
-    "timeYear": 5792,
+    "time": 5770,
+    "timeDay": 1034,
+    "timeWeek": 1136,
+    "timeMonth": 1092,
+    "timeYear": 5770,
     "dailyMinutesDown": {
       "2023-08-10": 610,
       "2023-08-09": 793,
