@@ -11,10 +11,10 @@
     "uptimeMonth": "99.78%",
     "uptimeYear": "97.67%",
     "time": 903,
-    "timeDay": 938,
-    "timeWeek": 998,
-    "timeMonth": 1012,
-    "timeYear": 966,
+    "timeDay": 996,
+    "timeWeek": 1003,
+    "timeMonth": 1015,
+    "timeYear": 967,
     "dailyMinutesDown": {
       "2024-01-28": 83,
       "2024-01-27": 15,
@@ -49,8 +49,7 @@
       "2023-03-05": 15,
       "2023-03-03": 281,
       "2023-03-02": 180,
-      "2023-03-01": 263,
-      "2023-02-26": 677
+      "2023-03-01": 263
     }
   },
   {
@@ -64,9 +63,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "98.04%",
-    "time": 229,
-    "timeDay": 163,
-    "timeWeek": 180,
+    "time": 228,
+    "timeDay": 189,
+    "timeWeek": 179,
     "timeMonth": 182,
     "timeYear": 234,
     "dailyMinutesDown": {
@@ -99,8 +98,7 @@
       "2023-03-05": 15,
       "2023-03-03": 280,
       "2023-03-02": 179,
-      "2023-03-01": 262,
-      "2023-02-26": 402
+      "2023-03-01": 262
     }
   },
   {
@@ -114,9 +112,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "97.80%",
-    "time": 327,
-    "timeDay": 163,
-    "timeWeek": 180,
+    "time": 326,
+    "timeDay": 190,
+    "timeWeek": 179,
     "timeMonth": 210,
     "timeYear": 357,
     "dailyMinutesDown": {
@@ -151,8 +149,7 @@
       "2023-03-05": 14,
       "2023-03-03": 280,
       "2023-03-02": 179,
-      "2023-03-01": 262,
-      "2023-02-26": 401
+      "2023-03-01": 262
     }
   },
   {
@@ -167,9 +164,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.80%",
     "time": 1687,
-    "timeDay": 1604,
-    "timeWeek": 1645,
-    "timeMonth": 1658,
+    "timeDay": 1506,
+    "timeWeek": 1621,
+    "timeMonth": 1653,
     "timeYear": 1738,
     "dailyMinutesDown": {
       "2024-02-17": 18,
@@ -198,15 +195,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/colmed.tandemdigital.net.ico",
     "slug": "colmed-tandem",
     "status": "up",
-    "uptime": "92.45%",
+    "uptime": "92.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "81.55%",
-    "uptimeYear": "92.45%",
+    "uptimeYear": "92.50%",
     "time": 1150,
-    "timeDay": 1052,
-    "timeWeek": 1070,
-    "timeMonth": 1064,
+    "timeDay": 1180,
+    "timeWeek": 1077,
+    "timeMonth": 1063,
     "timeYear": 1150,
     "dailyMinutesDown": {
       "2024-02-17": 17,
@@ -246,16 +243,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/excelenciadigital.online.ico",
     "slug": "historia-clinica",
     "status": "up",
-    "uptime": "99.20%",
+    "uptime": "99.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "99.20%",
-    "time": 3820,
-    "timeDay": 856,
-    "timeWeek": 1055,
+    "uptimeYear": "99.21%",
+    "time": 3814,
+    "timeDay": 1259,
+    "timeWeek": 1060,
     "timeMonth": 1054,
-    "timeYear": 3820,
+    "timeYear": 3814,
     "dailyMinutesDown": {
       "2024-02-17": 17,
       "2024-01-28": 83,
