@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.79%",
+    "uptimeYear": "97.85%",
     "time": 906,
-    "timeDay": 1018,
-    "timeWeek": 1035,
-    "timeMonth": 1014,
-    "timeYear": 970,
+    "timeDay": 1127,
+    "timeWeek": 1029,
+    "timeMonth": 1021,
+    "timeYear": 971,
     "dailyMinutesDown": {
       "2024-01-28": 83,
       "2024-01-27": 15,
@@ -46,8 +46,7 @@
       "2023-03-19": 1148,
       "2023-03-12": 1187,
       "2023-03-06": 114,
-      "2023-03-05": 15,
-      "2023-03-03": 281
+      "2023-03-05": 15
     }
   },
   {
@@ -60,11 +59,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.12%",
+    "uptimeYear": "98.17%",
     "time": 227,
-    "timeDay": 191,
-    "timeWeek": 188,
-    "timeMonth": 179,
+    "timeDay": 215,
+    "timeWeek": 187,
+    "timeMonth": 181,
     "timeYear": 234,
     "dailyMinutesDown": {
       "2024-01-28": 83,
@@ -93,8 +92,7 @@
       "2023-03-19": 1147,
       "2023-03-12": 1187,
       "2023-03-06": 114,
-      "2023-03-05": 15,
-      "2023-03-03": 280
+      "2023-03-05": 15
     }
   },
   {
@@ -107,12 +105,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.88%",
+    "uptimeYear": "97.94%",
     "time": 323,
-    "timeDay": 191,
-    "timeWeek": 188,
-    "timeMonth": 179,
-    "timeYear": 351,
+    "timeDay": 215,
+    "timeWeek": 187,
+    "timeMonth": 181,
+    "timeYear": 350,
     "dailyMinutesDown": {
       "2024-01-28": 83,
       "2024-01-27": 14,
@@ -142,8 +140,7 @@
       "2023-03-19": 1147,
       "2023-03-12": 1170,
       "2023-03-06": 114,
-      "2023-03-05": 14,
-      "2023-03-03": 280
+      "2023-03-05": 14
     }
   },
   {
@@ -158,10 +155,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.80%",
     "time": 1689,
-    "timeDay": 1652,
-    "timeWeek": 1699,
-    "timeMonth": 1656,
-    "timeYear": 1738,
+    "timeDay": 1719,
+    "timeWeek": 1631,
+    "timeMonth": 1664,
+    "timeYear": 1739,
     "dailyMinutesDown": {
       "2024-02-17": 18,
       "2023-11-28": 26,
@@ -189,16 +186,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/colmed.tandemdigital.net.ico",
     "slug": "colmed-tandem",
     "status": "up",
-    "uptime": "92.67%",
+    "uptime": "92.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "81.55%",
-    "uptimeYear": "92.67%",
-    "time": 1150,
-    "timeDay": 1106,
-    "timeWeek": 1149,
-    "timeMonth": 1070,
-    "timeYear": 1150,
+    "uptimeYear": "92.71%",
+    "time": 1149,
+    "timeDay": 1054,
+    "timeWeek": 1116,
+    "timeMonth": 1068,
+    "timeYear": 1149,
     "dailyMinutesDown": {
       "2024-02-17": 17,
       "2024-02-14": 871,
@@ -242,11 +239,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.22%",
-    "time": 3785,
-    "timeDay": 1170,
-    "timeWeek": 1124,
-    "timeMonth": 1052,
-    "timeYear": 3785,
+    "time": 3778,
+    "timeDay": 1136,
+    "timeWeek": 1086,
+    "timeMonth": 1055,
+    "timeYear": 3778,
     "dailyMinutesDown": {
       "2024-02-17": 17,
       "2024-01-28": 83,
