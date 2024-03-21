@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/colmed.tandemdigital.net.ico",
     "slug": "validaciones-online",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 1139,
-    "timeDay": 1131,
-    "timeWeek": 1132,
-    "timeMonth": 1139,
-    "timeYear": 1139,
-    "dailyMinutesDown": {
-      "2024-03-20": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1125,
+    "timeDay": 1084,
+    "timeWeek": 1067,
+    "timeMonth": 1125,
+    "timeYear": 1125,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Colmed Web",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
     "time": 1695,
-    "timeDay": 1547,
-    "timeWeek": 1565,
-    "timeMonth": 1598,
+    "timeDay": 1438,
+    "timeWeek": 1531,
+    "timeMonth": 1601,
     "timeYear": 1737,
     "dailyMinutesDown": {
       "2024-02-17": 18,
@@ -62,16 +60,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/excelenciadigital.online.ico",
     "slug": "historia-clinica",
     "status": "up",
-    "uptime": "99.22%",
+    "uptime": "99.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.22%",
-    "time": 3639,
-    "timeDay": 972,
-    "timeWeek": 1090,
-    "timeMonth": 1104,
-    "timeYear": 3639,
+    "time": 3632,
+    "timeDay": 1021,
+    "timeWeek": 1092,
+    "timeMonth": 1103,
+    "timeYear": 3632,
     "dailyMinutesDown": {
       "2024-03-11": 25,
       "2024-03-10": 146,
@@ -92,8 +90,7 @@
       "2023-05-21": 171,
       "2023-04-23": 235,
       "2023-03-25": 145,
-      "2023-03-23": 646,
-      "2023-03-22": 15
+      "2023-03-23": 646
     }
   }
 ]
