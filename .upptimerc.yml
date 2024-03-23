@@ -8,8 +8,6 @@ sites:
   - name: Colmed Web
     url: https://www.colmedsanjuan.com.ar
     icon: https://www.colmedsanjuan.com.ar/intranet/favicon.ico
-  - name: Historia Clinica
-    url: https://excelenciadigital.online/hcweb/Login.aspx
 assignees:
   - ZarzueloM
 status-website:
