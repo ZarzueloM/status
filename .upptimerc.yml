@@ -8,6 +8,10 @@ sites:
   - name: Colmed Web
     url: https://www.colmedsanjuan.com.ar
     icon: https://www.colmedsanjuan.com.ar/intranet/favicon.ico
+  - name: HC Excelencia
+    url: https://excelenciadigital.online/hcweb/
+  - name: HIS
+    url: https://his.colegiomedico.org.ar/PROD/
 assignees:
   - ZarzueloM
 status-website:
