@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1130,
-    "timeDay": 1134,
-    "timeWeek": 1128,
-    "timeMonth": 1130,
-    "timeYear": 1130,
+    "time": 1127,
+    "timeDay": 1091,
+    "timeWeek": 1114,
+    "timeMonth": 1127,
+    "timeYear": 1127,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
     "time": 1697,
-    "timeDay": 1561,
-    "timeWeek": 1568,
-    "timeMonth": 1597,
+    "timeDay": 1486,
+    "timeWeek": 1551,
+    "timeMonth": 1591,
     "timeYear": 1734,
     "dailyMinutesDown": {
       "2024-02-17": 18,
@@ -51,5 +51,41 @@
       "2023-04-23": 59,
       "2023-03-31": 24
     }
+  },
+  {
+    "name": "HC Excelencia",
+    "url": "https://excelenciadigital.online/hcweb/",
+    "icon": "https://icons.duckduckgo.com/ip3/excelenciadigital.online.ico",
+    "slug": "hc-excelencia",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 5944,
+    "timeDay": 5944,
+    "timeWeek": 5944,
+    "timeMonth": 5944,
+    "timeYear": 5944,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "HIS",
+    "url": "https://his.colegiomedico.org.ar/PROD/",
+    "icon": "https://icons.duckduckgo.com/ip3/his.colegiomedico.org.ar.ico",
+    "slug": "his",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1160,
+    "timeDay": 1160,
+    "timeWeek": 1160,
+    "timeMonth": 1160,
+    "timeYear": 1160,
+    "dailyMinutesDown": {}
   }
 ]
