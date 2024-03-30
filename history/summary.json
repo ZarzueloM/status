@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1135,
-    "timeDay": 1201,
-    "timeWeek": 1139,
-    "timeMonth": 1135,
-    "timeYear": 1135,
+    "time": 1141,
+    "timeDay": 1287,
+    "timeWeek": 1153,
+    "timeMonth": 1141,
+    "timeYear": 1141,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
-    "time": 1698,
-    "timeDay": 1344,
-    "timeWeek": 1531,
-    "timeMonth": 1575,
-    "timeYear": 1729,
+    "time": 1699,
+    "timeDay": 2044,
+    "timeWeek": 1593,
+    "timeMonth": 1590,
+    "timeYear": 1730,
     "dailyMinutesDown": {
       "2024-02-17": 18,
       "2023-11-28": 26,
@@ -48,8 +48,7 @@
       "2023-09-19": 42,
       "2023-06-30": 258,
       "2023-06-29": 205,
-      "2023-04-23": 59,
-      "2023-03-31": 24
+      "2023-04-23": 59
     }
   },
   {
@@ -58,16 +57,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/excelenciadigital.online.ico",
     "slug": "hc-excelencia",
     "status": "up",
-    "uptime": "80.58%",
-    "uptimeDay": "71.58%",
-    "uptimeWeek": "80.58%",
-    "uptimeMonth": "80.58%",
-    "uptimeYear": "80.58%",
-    "time": 4074,
-    "timeDay": 2735,
-    "timeWeek": 4074,
-    "timeMonth": 4074,
-    "timeYear": 4074,
+    "uptime": "88.46%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "88.46%",
+    "uptimeMonth": "88.46%",
+    "uptimeYear": "88.46%",
+    "time": 4462,
+    "timeDay": 6399,
+    "timeWeek": 4462,
+    "timeMonth": 4462,
+    "timeYear": 4462,
     "dailyMinutesDown": {
       "2024-03-28": 409
     }
@@ -83,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1263,
-    "timeDay": 1263,
-    "timeWeek": 1263,
-    "timeMonth": 1263,
-    "timeYear": 1263,
+    "time": 1333,
+    "timeDay": 1542,
+    "timeWeek": 1333,
+    "timeMonth": 1333,
+    "timeYear": 1333,
     "dailyMinutesDown": {}
   }
 ]
