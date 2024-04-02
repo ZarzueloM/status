@@ -4,9 +4,9 @@
     "url": "https://colmed.tandemdigital.net",
     "icon": "https://icons.duckduckgo.com/ip3/colmed.tandemdigital.net.ico",
     "slug": "validaciones-online",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1131,
     "timeMonth": 1131,
     "timeYear": 1131,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-02": 0
+    }
   },
   {
     "name": "Colmed Web",
@@ -57,11 +59,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/excelenciadigital.online.ico",
     "slug": "hc-excelencia",
     "status": "up",
-    "uptime": "94.80%",
+    "uptime": "95.02%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "94.80%",
-    "uptimeMonth": "94.80%",
-    "uptimeYear": "94.80%",
+    "uptimeWeek": "95.02%",
+    "uptimeMonth": "95.02%",
+    "uptimeYear": "95.02%",
     "time": 3376,
     "timeDay": 1067,
     "timeWeek": 3376,
