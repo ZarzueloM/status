@@ -1,7 +1,7 @@
 url: https://his.colegiomedico.org.ar/PROD/
-status: down
-code: 503
-responseTime: 3270
-lastUpdated: 2024-10-31T23:15:52.142Z
+status: up
+code: 200
+responseTime: 1199
+lastUpdated: 2024-10-31T23:44:29.553Z
 startTime: 2024-03-27T13:02:55.901Z
 generator: Upptime <https://github.com/upptime/upptime>
