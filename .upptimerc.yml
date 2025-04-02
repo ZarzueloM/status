@@ -8,8 +8,6 @@ sites:
   - name: Colmed Web
     url: https://www.colmedsanjuan.com.ar
     icon: https://www.colmedsanjuan.com.ar/intranet/favicon.ico
-  - name: HIS
-    url: https://his.colegiomedico.org.ar/PROD/
 assignees:
   - ZarzueloM
 status-website:
