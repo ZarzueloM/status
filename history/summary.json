@@ -4,7 +4,7 @@
     "url": "https://colmed.tandemdigital.net",
     "icon": "https://icons.duckduckgo.com/ip3/colmed.tandemdigital.net.ico",
     "slug": "validaciones-online",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1219,
     "timeYear": 1199,
     "dailyMinutesDown": {
+      "2025-04-06": 0,
       "2025-01-31": 18,
       "2025-01-24": 24,
       "2024-12-13": 205,
