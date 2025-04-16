@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/colmed.tandemdigital.net.ico",
     "slug": "validaciones-online",
     "status": "up",
-    "uptime": "99.69%",
+    "uptime": "99.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
-    "time": 1200,
-    "timeDay": 1002,
-    "timeWeek": 1126,
-    "timeMonth": 1201,
-    "timeYear": 1198,
+    "time": 1199,
+    "timeDay": 873,
+    "timeWeek": 1109,
+    "timeMonth": 1197,
+    "timeYear": 1197,
     "dailyMinutesDown": {
       "2025-01-31": 18,
       "2025-01-24": 24,
@@ -32,8 +32,7 @@
       "2024-06-02": 67,
       "2024-05-06": 64,
       "2024-05-02": 75,
-      "2024-04-18": 232,
-      "2024-04-16": 392
+      "2024-04-18": 232
     }
   },
   {
@@ -48,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 1763,
-    "timeDay": 1379,
+    "timeDay": 1460,
     "timeWeek": 1775,
-    "timeMonth": 1681,
-    "timeYear": 1736,
+    "timeMonth": 1680,
+    "timeYear": 1735,
     "dailyMinutesDown": {
       "2025-01-09": 59,
       "2024-08-08": 21,
