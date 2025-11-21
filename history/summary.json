@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 1167,
-    "timeDay": 1097,
-    "timeWeek": 1114,
-    "timeMonth": 1190,
+    "time": 1166,
+    "timeDay": 1128,
+    "timeWeek": 1120,
+    "timeMonth": 1192,
     "timeYear": 1180,
     "dailyMinutesDown": {
       "2025-07-23": 85,
@@ -37,14 +37,32 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 1604,
-    "timeDay": 1284,
-    "timeWeek": 1386,
-    "timeMonth": 1524,
+    "time": 1605,
+    "timeDay": 1498,
+    "timeWeek": 1426,
+    "timeMonth": 1530,
     "timeYear": 1604,
     "dailyMinutesDown": {
       "2025-07-23": 505,
       "2025-01-09": 59
     }
+  },
+  {
+    "name": "Validfarma",
+    "url": "https://sdf.tandemdigital.net",
+    "icon": "https://sdf.tandemdigital.net/assets/favicon.ico",
+    "slug": "validfarma",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 886,
+    "timeDay": 886,
+    "timeWeek": 886,
+    "timeMonth": 886,
+    "timeYear": 886,
+    "dailyMinutesDown": {}
   }
 ]
