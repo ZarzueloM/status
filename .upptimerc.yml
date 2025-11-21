@@ -8,6 +8,9 @@ sites:
   - name: Colmed Web
     url: https://www.colmedsanjuan.com.ar
     icon: https://www.colmedsanjuan.com.ar/intranet/favicon.ico
+  - name: Validfarma
+    url: https://sdf.tandemdigital.net
+    icon: https://sdf.tandemdigital.net/assets/favicon.ico
 assignees:
   - ZarzueloM
 status-website:
