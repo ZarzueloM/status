@@ -52,19 +52,19 @@
     "url": "https://sdf.tandemdigital.net",
     "icon": "https://sdf.tandemdigital.net/assets/favicon.ico",
     "slug": "validfarma",
-    "status": "down",
-    "uptime": "97.31%",
-    "uptimeDay": "97.31%",
-    "uptimeWeek": "97.31%",
-    "uptimeMonth": "97.31%",
-    "uptimeYear": "97.31%",
-    "time": 934,
-    "timeDay": 934,
-    "timeWeek": 934,
-    "timeMonth": 934,
-    "timeYear": 934,
+    "status": "up",
+    "uptime": "95.82%",
+    "uptimeDay": "95.82%",
+    "uptimeWeek": "95.82%",
+    "uptimeMonth": "95.82%",
+    "uptimeYear": "95.82%",
+    "time": 927,
+    "timeDay": 927,
+    "timeWeek": 927,
+    "timeMonth": 927,
+    "timeYear": 927,
     "dailyMinutesDown": {
-      "2025-11-22": 28
+      "2025-11-22": 44
     }
   }
 ]
