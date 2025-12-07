@@ -14,7 +14,7 @@
     "timeDay": 1227,
     "timeWeek": 1289,
     "timeMonth": 1230,
-    "timeYear": 1184,
+    "timeYear": 1185,
     "dailyMinutesDown": {
       "2025-07-23": 85,
       "2025-07-01": 70,
@@ -31,7 +31,7 @@
     "url": "https://www.colmedsanjuan.com.ar",
     "icon": "https://www.colmedsanjuan.com.ar/intranet/favicon.ico",
     "slug": "colmed-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
