@@ -6,14 +6,14 @@
     "slug": "validaciones-online",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "98.39%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.82%",
-    "time": 1184,
-    "timeDay": 1044,
-    "timeWeek": 1068,
-    "timeMonth": 1137,
+    "time": 1185,
+    "timeDay": 1588,
+    "timeWeek": 1134,
+    "timeMonth": 1152,
     "timeYear": 1190,
     "dailyMinutesDown": {
       "2026-03-01": 23,
@@ -39,10 +39,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 1532,
-    "timeDay": 1179,
-    "timeWeek": 1287,
+    "timeDay": 1352,
+    "timeWeek": 1270,
     "timeMonth": 1237,
-    "timeYear": 1501,
+    "timeYear": 1500,
     "dailyMinutesDown": {
       "2025-07-23": 505
     }
