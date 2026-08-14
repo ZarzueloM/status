@@ -4,16 +4,16 @@
     "url": "https://colmed.tandemdigital.net",
     "icon": "https://icons.duckduckgo.com/ip3/colmed.tandemdigital.net.ico",
     "slug": "validaciones-online",
-    "status": "down",
+    "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.73%",
-    "time": 1170,
-    "timeDay": 1140,
-    "timeWeek": 1235,
-    "timeMonth": 1150,
+    "uptimeDay": "97.92%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.72%",
+    "time": 1169,
+    "timeDay": 1159,
+    "timeWeek": 1228,
+    "timeMonth": 1151,
     "timeYear": 1161,
     "dailyMinutesDown": {
       "2025-12-11": 643,
@@ -36,7 +36,7 @@
       "2026-05-17": 70,
       "2026-05-19": 36,
       "2026-07-06": 108,
-      "2026-08-14": 0
+      "2026-08-14": 30
     }
   },
   {
