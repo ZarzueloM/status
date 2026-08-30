@@ -44,20 +44,21 @@
     "url": "https://www.colmedsanjuan.com.ar",
     "icon": "https://www.colmedsanjuan.com.ar/intranet/favicon.ico",
     "slug": "colmed-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1387,
+    "time": 1386,
     "timeDay": 1522,
     "timeWeek": 1319,
     "timeMonth": 1247,
     "timeYear": 1311,
     "dailyMinutesDown": {
       "2026-04-13": 23,
-      "2026-05-02": 23
+      "2026-05-02": 23,
+      "2026-08-30": 0
     }
   }
 ]
